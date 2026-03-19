@@ -1,0 +1,73 @@
+{
+    "PROFILE_CONTAINER": {
+        "profile": {
+            "personId": "118221670390758334158",
+            "sourceIds": {
+                "PROFILE": {
+                    "lastUpdated": "2026/03/12 17:18:32 (UTC)"
+                },
+                "CONTACT": {
+                    "lastUpdated": "2022/07/27 08:14:10 (UTC)"
+                }
+            },
+            "emails": {
+                "CONTACT": {
+                    "value": "bungaorked93@gmail.com"
+                },
+                "PROFILE": {
+                    "value": "bungaorked93@gmail.com"
+                }
+            },
+            "names": {},
+            "profileInfos": {
+                "PROFILE": {
+                    "userTypes": [
+                        "GOOGLE_USER"
+                    ]
+                }
+            },
+            "profilePhotos": {
+                "PROFILE": {
+                    "url": "https://lh3.googleusercontent.com/cm/AGPWSu8M83NilyoPIgfpVom11RwmjIIUyZIoqUhA7diLgg-KNeidc0bSHQvbezRqnSK_NXxDwQ",
+                    "isDefault": true,
+                    "flathash": "000030383c380000"
+                }
+            },
+            "coverPhotos": {
+                "PROFILE": {
+                    "url": "https://lh3.googleusercontent.com/c5dqxl-2uHZ82ah9p7yxrVF1ZssrJNSV_15Nu0TUZwzCWqmtoLxCUJgEzLGtxsrJ6-v6R6rKU_-FYm881TTiMCJ_",
+                    "isDefault": true,
+                    "flathash": null
+                }
+            },
+            "inAppReachability": {
+                "PROFILE": {
+                    "apps": [
+                        "Maps",
+                        "Meet"
+                    ]
+                }
+            },
+            "extendedData": {
+                "dynamiteData": {
+                    "presence": "UNKNOWN",
+                    "entityType": "PERSON",
+                    "dndState": "AVAILABLE",
+                    "customerId": ""
+                },
+                "gplusData": {
+                    "contentRestriction": "",
+                    "isEntrepriseUser": false
+                }
+            }
+        },
+        "play_games": null,
+        "maps": {
+            "err": "failed",
+            "photos": [],
+            "reviews": [],
+            "stats": {}
+        },
+        "calendar": null
+    }
+}

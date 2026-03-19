@@ -1,0 +1,13 @@
+.DS_Store
+build/
+dist/
+__pycache__/
+ghunt.egg-info/
+
+# Local / sensitive
+result.json
+*.local.json
+.env
+.venv/
+venv/
+myenv/

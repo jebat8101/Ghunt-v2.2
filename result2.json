@@ -1,0 +1,106 @@
+{
+    "PROFILE_CONTAINER": {
+        "profile": {
+            "personId": "107490665734365050551",
+            "sourceIds": {
+                "PROFILE": {
+                    "lastUpdated": "2026/03/19 19:24:06 (UTC)"
+                }
+            },
+            "emails": {
+                "PROFILE": {
+                    "value": "jebat307744@gmail.com"
+                }
+            },
+            "names": {},
+            "profileInfos": {
+                "PROFILE": {
+                    "userTypes": [
+                        "GOOGLE_USER"
+                    ]
+                }
+            },
+            "profilePhotos": {
+                "PROFILE": {
+                    "url": "https://lh3.googleusercontent.com/a-/ALV-UjU8cG9USdRovMf5nsnHyVySUK7MsWr61QeCbk3s6PAcrL-j9cNq",
+                    "isDefault": false,
+                    "flathash": "c39900c3e7f7dbc3"
+                }
+            },
+            "coverPhotos": {
+                "PROFILE": {
+                    "url": "https://lh3.googleusercontent.com/c5dqxl-2uHZ82ah9p7yxrVF1ZssrJNSV_15Nu0TUZwzCWqmtoLxCUJgEzLGtxsrJ6-v6R6rKU_-FYm881TTiMCJ_",
+                    "isDefault": true,
+                    "flathash": null
+                }
+            },
+            "inAppReachability": {
+                "PROFILE": {
+                    "apps": [
+                        "Youtube",
+                        "Photos",
+                        "Maps",
+                        "Meet"
+                    ]
+                }
+            },
+            "extendedData": {
+                "dynamiteData": {
+                    "presence": "UNKNOWN",
+                    "entityType": "PERSON",
+                    "dndState": "AVAILABLE",
+                    "customerId": ""
+                },
+                "gplusData": {
+                    "contentRestriction": "",
+                    "isEntrepriseUser": false
+                }
+            }
+        },
+        "play_games": {
+            "profile": {
+                "display_name": "RancidTornado2859",
+                "id": "g02525831682548540374",
+                "avatar_url": "https://lh3.googleusercontent.com/WCH2rV2GnLbum4sEIuGFeI8Q-ZpA1jHil6rgXPjqf2tl9uiHDiC0KUPCaY-MyR0UnmMm",
+                "banner_url_portrait": "https://lh3.googleusercontent.com/iXNdw4kqPIpEFFF45s8f6rJUYW9J0-OxUI9VVP2dRlY06Kj99Qy0Qi0yGuq_IlGDGMqyZK5g3FlmD-GYqA",
+                "banner_url_landscape": "https://lh3.googleusercontent.com/I2yadG1Gyqpk2rQNtW3GfJNNKjHXBuYLULmTPdvcvx6325gNhSo-B3jcpBRzBseeHKZnyf1EaG8aeHXd6yE",
+                "gamertag": "RancidTornado2859",
+                "last_played_app": {
+                    "app_id": "",
+                    "icon_url": "",
+                    "featured_image_url": "",
+                    "app_name": "",
+                    "timestamp_millis": ""
+                },
+                "profile_settings": {
+                    "profile_visible": true
+                },
+                "experience_info": {
+                    "current_xp": "0",
+                    "last_level_up_timestamp_millis": "",
+                    "current_level": {
+                        "level": 1,
+                        "min_xp": "0",
+                        "max_xp": "1000"
+                    },
+                    "next_level": {
+                        "level": 2,
+                        "min_xp": "1000",
+                        "max_xp": "2500"
+                    },
+                    "total_unlocked_achievements": "0"
+                },
+                "title": "Rookie"
+            },
+            "played_games": [],
+            "achievements": []
+        },
+        "maps": {
+            "err": "failed",
+            "photos": [],
+            "reviews": [],
+            "stats": {}
+        },
+        "calendar": null
+    }
+}
