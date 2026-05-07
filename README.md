@@ -31,7 +31,7 @@ Features :
  ```bash
  $ git clone https://github.com/jebat8101/Ghunt-v2.2.git
  $ cd Ghunt-v2.2
- $ python -m venv venv && source/bin/activate
+ $ python -m venv venv && source venv/bin/activate
  $ pip3 install -r requirements.txt and requirements-streamlit.txt
 
  Run
